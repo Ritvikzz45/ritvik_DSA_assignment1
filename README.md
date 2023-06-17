@@ -1,4 +1,6 @@
-Java Code for the given Problem Statement below
+Firstly put main and rest of the files within same package, then compile the main.java file and you will see the desired output.
+
+For below Problem Statement.
 → The assignment will contain 4 departments as four different object classes
 i) Super Department 
 ii) Admin Department 
