@@ -1,4 +1,5 @@
 Firstly put main and rest of the files within same package, then compile the main.java file and you will see the desired output.
+Super_department file to execute according to calendar and use another Super_department_copy file if you want to see same output.
 
 For below Problem Statement.
 → The assignment will contain 4 departments as four different object classes
