@@ -60,5 +60,3 @@ Core Java
 Today is not a Holiday
 How to upload code in Github?
 ------------------------------------------------------------------
-Follow the approach shown in the below link for all submissions. https://olympus1.mygreatlearning.com/online_session/recordings?access_token=eyJ0eXAiOiJK V1QiLCJhbGciOiJIUzI1NiJ9.eyJtZW50b3JlZF9zZXNzaW9uX2lkIjo5NjYxMzh9.puI9EB-62sBFY MzPYABhEH9Epth2G85X4dg55g7es_s
-   
